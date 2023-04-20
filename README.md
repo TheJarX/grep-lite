@@ -1,5 +1,5 @@
 ## Building
-This project uses [Cargo](https://crates.io) to build. To build, run `cargo build` in the root directory of the project.
+This project uses [Cargo](https://crates.io). To build, run `cargo build` in the root directory of the project.
 
 ## Usage
 Once you've built the project you can run the output like this:
